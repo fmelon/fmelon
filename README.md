@@ -2,8 +2,6 @@
 
 Information Security Engineer
 
-✨Nice to see you again. ✨
-
 ![Fmelon's github stats](https://github-readme-stats.vercel.app/api?username=fmelon&hide=stars,contribs)
 
 
