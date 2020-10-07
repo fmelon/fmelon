@@ -2,7 +2,7 @@
 
 Information Security Engineer
 
-![Fmelon's github stats](https://github-readme-stats.vercel.app/api?username=fmelon&hide=stars,contribs)
+![Fmelon's github stats](https://github-readme-stats.vercel.app/api?username=fmelon&hide=stars,contribs&theme=merko)
 
 ✨Nice to see you again. ✨
 
